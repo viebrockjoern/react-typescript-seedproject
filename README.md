@@ -2,10 +2,12 @@
 
 ## Table of Contents
 
-Clean seed project for typescript in combination with react.
-I have removed all previous code and made some changes to the gitignore (no .idea...). 
-Also I've changed the tslint to allow console.log, for starting development.
+Sample project for react with typescript and example routing.
+Static routing and also with parameters (News Component).
 
+All base-components structured under own folders.
+
+Also not-found implementation.
 
 
 ###Scripts
